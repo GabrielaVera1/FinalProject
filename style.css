@@ -1,0 +1,7 @@
+ body
+background= url("https://www.itu.int/en/mediacentre/backgrounders/PublishingImages/climate-change-backgrounder.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+  height: 100%;
+  width: 100%;
+}
